@@ -78,9 +78,10 @@ These are optional — only if you have time and want to go further:
 
 - Think of this assessment as a real project at Helu.
 - Ensure your code is of **high quality** and follows best design practices. However, there is no need to implement a production-ready, infinitely scalable solution (running the solution locally is sufficient).
-- **Time expectation:** The solution should take around **3 hours**. If it takes longer for any reason, or you don't have enough time for all deliverables, that's no problem! In that case, write down how you would have solved it in the README or add relevant code comments.
+- **Quality over completeness.** We would rather see a well-thought-out partial solution than a complete one you can't fully explain. If you run out of time, document your thinking and next steps in the README.
+- **Time expectation:** The solution should take around **3 hours**. If it takes longer for any reason, or you don't have enough time for all deliverables, that's no problem! Focus on doing good work on the parts you do complete.
 - The problem is intentionally vaguely defined (e.g. what storage to use) — we're interested in how you approach problems and make decisions with limited information.
-- **We evaluate understanding over output.** You should be able to explain your code and design choices in a follow-up interview.
+- **We evaluate understanding over output.** You should be able to explain every part of your code and design choices in a follow-up interview.
 
 Good luck and have fun!
 
