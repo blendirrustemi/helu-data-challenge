@@ -32,6 +32,12 @@ Verify it is running:
 curl http://localhost:5050/health
 ```
 
+- **Run the tests:**
+
+```bash
+python -m pytest -v
+````
+
 - **Run the pipeline** from the project root:
 
 ```bash
