@@ -8,10 +8,16 @@ This repository contains my solution for the Helu data engineering technical ass
 
 - **Python version**: 3.10+
 
-- **Install dependencies**:
-
+### Setup
+- **Create and activate a virtual environment**:
 ```bash
-pip install -r requirements.txt
+python3 -m venv .venv
+source .venv/bin/activate
+```
+
+- **Install dependencies**:
+```bash
+python -m pip install -r requirements.txt
 ```
 
 - **Start the subscription API Docker** from the project root:
