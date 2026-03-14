@@ -1,0 +1,8 @@
+flask
+pandas
+requests
+duckdb
+country_converter
+pytest
+pyarrow
+ruff
