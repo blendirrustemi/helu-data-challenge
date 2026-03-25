@@ -1,6 +1,6 @@
-## Helu Data Engineering Assignment Solution
+## Helu Data Engineering Sample
 
-This repository contains my solution for the Helu data engineering technical assignment.  
+This repository contains my solution a data engineering sample problem.  
 
 ---
 
